@@ -78,7 +78,7 @@ void display()
 
 int main()
 {
-    
+    input();
 }
 
 
