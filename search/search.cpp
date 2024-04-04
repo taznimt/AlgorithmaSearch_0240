@@ -41,7 +41,7 @@ void LinearSearch()
     {
         //Accept the number to be searched
         cout << "\nEnter the elements you want to search: "; // step1
-
+        cin >> item;
     }
 }
 
